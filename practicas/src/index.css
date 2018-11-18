@@ -1,0 +1,39 @@
+.mesa_principal {
+	min-height: 500px;
+	background-color: pink;
+	padding: 50px;
+}
+
+.mantel {
+	height: 200px;
+	background-color: purple;
+	width: 25%;
+	padding: 20px;
+	display: flex;
+}
+
+.cubierto {
+	height: 100%;
+	width: 20%;
+	background-color: grey;
+}
+
+.plato {
+	height: 100%;
+	width: 50%;
+	margin: 0 5% 0 5%;
+	background-color: white;
+	border-radius: 50%;
+}
+
+.display_flex {
+	display: flex;
+}
+
+.space_btw {
+	justify-content: space-between;
+}
+
+nav {
+    background-color: purple;
+}

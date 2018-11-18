@@ -1,0 +1,45 @@
+
+#techo {
+	padding: 50px;
+	min-height: 200px;
+	background-color: grey;
+}
+
+.foco {
+	min-height: 100px;
+	width: 100px;
+	background-color: white;
+}
+
+.luz {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	background-color: yellow;
+	margin: 25px 0 0 25px;
+}
+
+.dis_flex {
+	display: flex;
+}
+
+.around {
+	justify-content: space-around;
+}
+
+.al_center {
+	align-items: center;
+}
+
+.width_100 {
+	width: 100%;
+}
+
+.fila_foco {
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+}
+
